@@ -1,10 +1,5 @@
 # 🍎 Apple Sign In Example (SwiftUI + Keychain)
 
-This repository is a **production-ready template** for implementing **Sign in with Apple** authentication in a SwiftUI application.  
-It uses **Keychain** to securely store the Apple user identifier and automatically restores the login state on app launch.
-
----
-
 ## ✨ Features
 - 🔒 Secure authentication with **Sign in with Apple**  
 - 📦 **Keychain** integration for persistent and safe storage of user credentials  
