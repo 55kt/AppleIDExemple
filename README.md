@@ -45,6 +45,12 @@ It uses **Keychain** to securely store the Apple user identifier and automatical
 MIT License. Feel free to use and adapt it in your projects.
 
 ## ⚡ Notes
+
+- **Face ID / Touch ID support**  
+  Local Authentication (Face ID / Touch ID) works properly only on a real device.  
+  In the iOS Simulator you can simulate biometrics via **Features → Face ID / Touch ID → Matching / Non-Matching**, but some flows (e.g., Sign in with Apple system sheet) may not trigger biometrics at all.  
+  For production testing always use a physical iPhone
+
 - Make sure **Sign in with Apple** capability is enabled in your Xcode project settings.  
 - Add the following entry to your **Info.plist** (Targets → Info → Custom iOS Target Properties):
   - **Privacy - Face ID Usage Description** → `"Use Face ID for quick start"`  
