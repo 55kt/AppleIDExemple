@@ -17,15 +17,6 @@ It uses **Keychain** to securely store the Apple user identifier and automatical
 ## 📸 Screenshots
 _Add your screenshots here_
 
----
-
-## 📂 Project Structure
-AppleIDExemple/
-├── AuthViewModel.swift   # Handles Apple authentication and Keychain logic
-├── KeychainHelper.swift  # Simple wrapper for saving, reading, and deleting Keychain items
-├── ContentView.swift     # Main UI: shows Sign in with Apple button or Welcome screen
-└── AppleIDExempleApp.swift # App entry point, manages auth state and lifecycle
-
 ## 🚀 How It Works
 1. On first launch, the user signs in with Apple.  
    - The **user identifier** (`credential.user`) is securely saved in **Keychain**.  
