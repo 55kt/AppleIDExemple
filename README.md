@@ -10,15 +10,13 @@
 ---
 
 ## 📸 Screenshots
-<img width="200" alt="Image" src="https://github.com/user-attachments/assets/1315625e-fde4-4ff0-82ad-35f60bd428fd" />
-
+<p align="center">
+  <img width="200" alt="Image" src="https://github.com/user-attachments/assets/1315625e-fde4-4ff0-82ad-35f60bd428fd" />
 <img width="200" alt="Image" src="https://github.com/user-attachments/assets/c604e35e-ec62-41a0-b9ad-0e9ff0e382a0" />
-
 <img width="200" alt="Image" src="https://github.com/user-attachments/assets/09ef3977-cb9a-4574-8e56-83c3b4e33754" />
-
 <img width="200" alt="Image" src="https://github.com/user-attachments/assets/805d3344-809d-4f4f-9c94-251eb20203d0" />
-
 <img width="200" alt="Image" src="https://github.com/user-attachments/assets/d846fd91-c67e-41c8-ab10-36828d46d279" />
+</p>
 
 ## 🚀 How It Works
 1. On first launch, the user signs in with Apple.  
